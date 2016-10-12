@@ -1,0 +1,9 @@
+D:\1\Sutris\Tugas\TugasFrameWork\TugasCSharpLanjutan\bin\Debug\TugasCSharpLanjutan.exe.config
+D:\1\Sutris\Tugas\TugasFrameWork\TugasCSharpLanjutan\obj\Debug\TugasCSharpLanjutan.exe
+D:\1\Sutris\Tugas\TugasFrameWork\TugasCSharpLanjutan\obj\Debug\TugasCSharpLanjutan.pdb
+D:\Pan Jerry\TugasFrameWork\TugasCSharpLanjutan\bin\Debug\TugasCSharpLanjutan.exe.config
+D:\Pan Jerry\TugasFrameWork\TugasCSharpLanjutan\obj\Debug\TugasCSharpLanjutan.exe
+D:\Pan Jerry\TugasFrameWork\TugasCSharpLanjutan\obj\Debug\TugasCSharpLanjutan.pdb
+D:\Pan Jerry\TugasFrameWork\TugasFrameWork\bin\Debug\TugasCSharpLanjutan.exe.config
+D:\Pan Jerry\TugasFrameWork\TugasFrameWork\obj\Debug\TugasCSharpLanjutan.exe
+D:\Pan Jerry\TugasFrameWork\TugasFrameWork\obj\Debug\TugasCSharpLanjutan.pdb
