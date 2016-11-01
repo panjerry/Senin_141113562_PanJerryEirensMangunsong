@@ -1,0 +1,31 @@
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Tugas_1\bin\Debug\Tugas_1.exe.config
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Tugas_1\bin\Debug\Tugas_1.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Tugas_1\bin\Debug\Tugas_1.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Tugas_1\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Tugas_1\obj\Debug\Tugas_1.frmMain.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Tugas_1\obj\Debug\Tugas_1.Properties.Resources.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Tugas_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Tugas_1\obj\Debug\Tugas_1.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Tugas_1\obj\Debug\Tugas_1.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_1_1\bin\Debug\Tugas_1.exe.config
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_1_1\obj\Debug\Tugas_1.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_1_1\obj\Debug\Tugas_1.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_1_1\bin\Debug\Tugas_1.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_1_1\bin\Debug\Tugas_1.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_1_1\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_1_1\obj\Debug\Latihan_1_1.frmMain.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_1_1\obj\Debug\Tugas_1.Properties.Resources.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_1_1\bin\Debug\Tugas_1.exe.config
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\bin\Debug\Tugas_1.exe.config
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\bin\Debug\Tugas_1.exe
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\bin\Debug\Tugas_1.pdb
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\obj\Debug\Latihan_1_1.frmMain.resources
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\obj\Debug\Tugas_1.Properties.Resources.resources
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\obj\Debug\Tugas_1.exe
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\obj\Debug\Tugas_1.pdb
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\bin\Debug\Tugas_1.exe.config
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\obj\Debug\Tugas_1.exe
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_1_1\obj\Debug\Tugas_1.pdb
