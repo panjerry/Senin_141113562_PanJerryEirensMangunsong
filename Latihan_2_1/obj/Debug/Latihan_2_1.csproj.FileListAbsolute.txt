@@ -1,0 +1,9 @@
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_2_1\bin\Debug\Latihan_2_1.exe.config
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_2_1\bin\Debug\Latihan_2_1.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_2_1\bin\Debug\Latihan_2_1.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_2_1\obj\Debug\Latihan_2_1.frmMain.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_2_1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_2_1\obj\Debug\Latihan_2_1.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_2_1\obj\Debug\Latihan_2_1.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_2_1\obj\Debug\Latihan_2_1.pdb

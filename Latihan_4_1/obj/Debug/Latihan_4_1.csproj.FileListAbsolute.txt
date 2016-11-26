@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\bin\Debug\Latihan_4_1.exe
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.Form1.resources
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_4_1\obj\Debug\Latihan_4_1.csprojResolveAssemblyReference.cache
+=======
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_4_1\bin\Debug\Latihan_4_1.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_4_1\obj\Debug\Latihan_4_1.frmMain.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\Latihan_4_1\obj\Debug\Latihan_4_1.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_4_1\bin\Debug\Latihan_4_1.exe
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_4_1\obj\Debug\Latihan_4_1.frmMain.resources
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+C:\Users\kevin\Downloads\Senin_141110191_DennyHo-master (1)\Senin_141110191_DennyHo-master\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\bin\Debug\Latihan_4_1.exe
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.frmMain.resources
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
+C:\Users\Mian\Desktop\Senin_141110191_DennyHo-master (1)\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\bin\Debug\Latihan_4_1.exe
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\bin\Debug\Latihan_4_1.pdb
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.csprojResolveAssemblyReference.cache
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.frmMain.resources
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
+D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_141112320_SutrisWijayaHasim\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+>>>>>>> 0f956fd306b0c815a1da948aae1cebb63415db6e
