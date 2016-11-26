@@ -1,0 +1,18 @@
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe.config
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.csprojResolveAssemblyReference.cache
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.Form1.resources
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.Properties.Resources.resources
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.csproj.GenerateResource.Cache
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.pdb
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.exe
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.pdb
+D:\Users\john\Downloads\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe.config
+D:\Users\john\Downloads\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe
+D:\Users\john\Downloads\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.pdb
+D:\Users\john\Downloads\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.csprojResolveAssemblyReference.cache
+D:\Users\john\Downloads\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.Form1.resources
+D:\Users\john\Downloads\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.Properties.Resources.resources
+D:\Users\john\Downloads\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.csproj.GenerateResource.Cache
+D:\Users\john\Downloads\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.exe
+D:\Users\john\Downloads\Selasa_141110337_Steven-master\Selasa_141110337_Steven-master\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.pdb

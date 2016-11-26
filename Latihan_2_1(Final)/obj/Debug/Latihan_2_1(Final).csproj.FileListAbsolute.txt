@@ -1,0 +1,9 @@
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_2_1(Final)\bin\Debug\Latihan_2_1(Final).exe.config
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_2_1(Final)\bin\Debug\Latihan_2_1(Final).exe
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_2_1(Final)\bin\Debug\Latihan_2_1(Final).pdb
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_2_1(Final)\obj\Debug\Latihan_2_1(Final).csprojResolveAssemblyReference.cache
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_2_1(Final)\obj\Debug\Latihan_2_1_Final_.Form1.resources
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_2_1(Final)\obj\Debug\Latihan_2_1_Final_.Properties.Resources.resources
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_2_1(Final)\obj\Debug\Latihan_2_1(Final).csproj.GenerateResource.Cache
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_2_1(Final)\obj\Debug\Latihan_2_1(Final).exe
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_2_1(Final)\obj\Debug\Latihan_2_1(Final).pdb

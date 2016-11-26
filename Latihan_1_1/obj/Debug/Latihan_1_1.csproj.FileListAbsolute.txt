@@ -1,0 +1,14 @@
+D:\Object Oriented\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+D:\Object Oriented\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\bin\Debug\Latihan_1_1.exe
+D:\Object Oriented\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\bin\Debug\Latihan_1_1.pdb
+D:\Object Oriented\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.Form1.resources
+D:\Object Oriented\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.Properties.Resources.resources
+D:\Object Oriented\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+D:\Object Oriented\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+D:\Object Oriented\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
+D:\Net Lanjutan\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+D:\Net Lanjutan\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+D:\Net Lanjutan\Selasa_141110337_Steven\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+D:\Net Lanjutan\Clone\Selasa_141110337_Steven\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
