@@ -1,0 +1,34 @@
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.csprojResolveAssemblyReference.cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Debug\Latihan_Pos.exe.config
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.Properties.Resources.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Debug\Latihan_Pos.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Debug\Latihan_Pos.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.frmMain.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Debug\MetroFramework.dll
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Debug\MetroFramework.Fonts.dll
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.frmLihat.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.Menu.frmEdit.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.Menu.frmRegistrasi.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.CustomForm.frmBrowse.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.Menu.frmHapus.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\bin\Debug\Latihan_Pos.exe.config
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\bin\Debug\Latihan_Pos.exe
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\bin\Debug\Latihan_Pos.pdb
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\bin\Debug\MetroFramework.dll
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\bin\Debug\MetroFramework.Fonts.dll
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.csprojResolveAssemblyReference.cache
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.CustomForm.frmBrowse.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.Menu.frmEdit.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.Menu.frmHapus.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.frmLihat.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.frmMain.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.Properties.Resources.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.Menu.frmRegistrasi.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.exe
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.pdb
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.Menu.frmLihatTransaksi.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\point_of_sales\obj\Debug\Latihan_Pos.Menu.frmKelolaTransaksi.resources

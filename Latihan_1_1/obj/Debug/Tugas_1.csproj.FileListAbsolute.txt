@@ -1,0 +1,9 @@
+E:\mikroskil\Semester 5\Tugas_1\Tugas_1\bin\Debug\Tugas_1.exe.config
+E:\mikroskil\Semester 5\Tugas_1\Tugas_1\bin\Debug\Tugas_1.exe
+E:\mikroskil\Semester 5\Tugas_1\Tugas_1\bin\Debug\Tugas_1.pdb
+E:\mikroskil\Semester 5\Tugas_1\Tugas_1\obj\Debug\Tugas_1.csprojResolveAssemblyReference.cache
+E:\mikroskil\Semester 5\Tugas_1\Tugas_1\obj\Debug\Tugas_1.frmMain.resources
+E:\mikroskil\Semester 5\Tugas_1\Tugas_1\obj\Debug\Tugas_1.Properties.Resources.resources
+E:\mikroskil\Semester 5\Tugas_1\Tugas_1\obj\Debug\Tugas_1.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\Tugas_1\Tugas_1\obj\Debug\Tugas_1.exe
+E:\mikroskil\Semester 5\Tugas_1\Tugas_1\obj\Debug\Tugas_1.pdb

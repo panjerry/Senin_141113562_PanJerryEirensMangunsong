@@ -1,0 +1,9 @@
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Debug\point_of_sales.exe.config
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\point_of_sales.csprojResolveAssemblyReference.cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\point_of_sales.Form1.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\point_of_sales.Properties.Resources.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\point_of_sales.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Debug\point_of_sales.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Debug\point_of_sales.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\point_of_sales.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Debug\point_of_sales.pdb

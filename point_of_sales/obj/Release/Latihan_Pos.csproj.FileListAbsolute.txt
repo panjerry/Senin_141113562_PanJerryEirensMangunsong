@@ -1,0 +1,15 @@
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Release\Latihan_Pos.exe.config
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Release\Latihan_Pos.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Release\Latihan_Pos.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Release\MetroFramework.dll
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\bin\Release\MetroFramework.Fonts.dll
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Release\Latihan_Pos.CustomForm.frmBrowse.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Release\Latihan_Pos.Menu.frmEdit.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Release\Latihan_Pos.Menu.frmHapus.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Release\Latihan_Pos.frmLihat.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Release\Latihan_Pos.frmMain.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Release\Latihan_Pos.Properties.Resources.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Release\Latihan_Pos.Menu.frmRegistrasi.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Release\Latihan_Pos.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Release\Latihan_Pos.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\point_of_sales\obj\Release\Latihan_Pos.pdb

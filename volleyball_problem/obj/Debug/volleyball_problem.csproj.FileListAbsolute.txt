@@ -1,0 +1,17 @@
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\volleyball_problem\bin\Debug\volleyball_problem.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\volleyball_problem\bin\Debug\volleyball_problem.pdb
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.exe
+E:\mikroskil\Semester 5\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.pdb
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\volleyball_problem\bin\Debug\volleyball_problem.exe
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\volleyball_problem\bin\Debug\volleyball_problem.pdb
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.exe
+E:\mikroskil\Semester 5\New folder\Senin_141110191_DennyHo\volleyball_problem\obj\Debug\volleyball_problem.pdb
